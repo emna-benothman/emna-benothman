@@ -32,8 +32,6 @@
     <a href="mailto:emna.benothman@esprit.tn">
       <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    &nbsp;
-    <img src="https://komarev.com/ghpvc/?username=emna-benothman&color=7aa2f7&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
   </p>
 </div>
 
@@ -293,29 +291,34 @@ flowchart LR
 
 ---
 
-## 📊 GitHub Analytics Hub
+## 💼 Professional Experience & Spoken Languages
 
-<!-- Unified Side-by-Side Stats Dashboard -->
-<table align="center" border="0" cellpadding="0" cellspacing="4">
+<table width="100%" border="0" cellpadding="8">
   <tr>
-    <td valign="top" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=emna-benothman&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Emna's GitHub Stats" height="175" />
+    <td width="60%" valign="top">
+      <h3>💼 Professional Experience</h3>
+      <ul>
+        <li>
+          <b>Educational Content Contributor & Front-End Support</b> — <i>TAGEUP</i> (Apr–Sep 2026)<br />
+          Structured online TAGE MAGE learning curricula with core frontend feature contributions to the web platform.
+        </li>
+        <li>
+          <b>IT Engineering Intern</b> — <i>CTAMA Assurances</i> (Summer 2024)<br />
+          Technical support within an enterprise software environment; corporate IT maintenance, database queries, and system operations.
+        </li>
+      </ul>
     </td>
-    <td valign="top" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emna-benothman&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" height="175" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://streak-stats.demolab.com/?user=emna-benothman&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
+    <td width="40%" valign="top">
+      <h3>🌐 Languages & Communication</h3>
+      <ul>
+        <li><b>Arabic:</b> Native</li>
+        <li><b>French:</b> Fluent / Bilingual</li>
+        <li><b>English:</b> Fluent / Full Professional</li>
+        <li><b>Spanish:</b> Beginner (A1)</li>
+      </ul>
     </td>
   </tr>
 </table>
-
-<!-- GitHub Trophies -->
-<p align="center">
-  <img src="https://profile-trophy.vercel.app/?username=emna-benothman&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</p>
 
 <!-- Footer Wave Banner -->
 <p align="center">
