@@ -50,7 +50,7 @@ Tech Interests : Applied AI, Software Architecture, Enterprise Systems, Tech Con
 
 ## 🛠️ Technical Arsenal
 
-### 💻 Programming Languages
+### 💻 Programming Languages & Core Foundations
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
@@ -59,32 +59,64 @@ Tech Interests : Applied AI, Software Architecture, Enterprise Systems, Tech Con
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX" />
+  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />
 </p>
 
-### 🧠 AI, Machine Learning & External APIs
+### 🧠 Artificial Intelligence, Machine Learning & Data Science
 <p align="left">
   <img src="https://img.shields.io/badge/Google_Gemini-8E75C2?style=for-the-badge&logo=google&logoColor=white" alt="Google Gemini" />
   <img src="https://img.shields.io/badge/LLM_Orchestration-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="LLM Orchestration" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
   <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning" />
-  <img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/Deep_Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="Deep Learning" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
 </p>
 
-### 🗄️ Databases & Data Modeling
+### 🗄️ Databases, Data Engineering & Warehousing
 <p align="left">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/Oracle_11g-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle 11g" />
+  <img src="https://img.shields.io/badge/SQL_Developer-EA1B22?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle SQL Developer" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/Data_Warehousing-232F3E?style=for-the-badge&logo=databricks&logoColor=white" alt="Data Warehousing" />
+  <img src="https://img.shields.io/badge/ETL_Pipelines-00897B?style=for-the-badge&logo=apache-airflow&logoColor=white" alt="ETL Pipelines" />
+  <img src="https://img.shields.io/badge/Business_Intelligence-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Business Intelligence" />
+  <img src="https://img.shields.io/badge/Data_Modeling-5C6BC0?style=for-the-badge&logo=diagramsdotnet&logoColor=white" alt="Data Modeling" />
 </p>
 
-### ⚙️ Frameworks & Engineering Tools
+### ⚙️ Frameworks, GUI & Frontend Development
 <p align="left">
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="Qt" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Qt_6-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="Qt" />
+  <img src="https://img.shields.io/badge/Qt_Creator-2C3E50?style=for-the-badge&logo=qt&logoColor=white" alt="Qt Creator" />
+  <img src="https://img.shields.io/badge/SDL_1.2-1774A0?style=for-the-badge&logo=c&logoColor=white" alt="SDL 1.2" />
+  <img src="https://img.shields.io/badge/Bootstrap_5-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/Leaflet.js-199900?style=for-the-badge&logo=leaflet&logoColor=white" alt="Leaflet.js" />
+</p>
+
+### 🌐 APIs, Web Integrations & Protocols
+<p align="left">
+  <img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/Stripe_API-635BFF?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe API" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/OpenMeteo_API-FFA500?style=for-the-badge&logo=accuweather&logoColor=white" alt="OpenMeteo API" />
+  <img src="https://img.shields.io/badge/GFW_API-007799?style=for-the-badge&logo=target&logoColor=white" alt="Global Fishing Watch API" />
+</p>
+
+### 🛠️ Developer Tools, Systems & Engineering Workflows
+<p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Agile_Scrum-205493?style=for-the-badge&logo=jira&logoColor=white" alt="Agile Scrum" />
 </p>
 
 ---
