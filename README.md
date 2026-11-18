@@ -1,40 +1,56 @@
-### Hi there, I'm Emna 👋
-<img align="right" width="160" alt="Emna Ben Othman - AI Engineering Student" src="assets/avatar.png" />
-
-## AI Engineering Student & Software Developer 🚀
-
-Third-year engineering student specializing in **Artificial Intelligence** at **ESPRIT School of Engineering** (Tunisia). I build robust, data-driven applications by coupling solid object-oriented software engineering foundations with modern AI capabilities—including LLM orchestration, intelligent agent workflows, and data pipelines.
-
----
-
-# 💫 About Me:
-- 🎓 **Engineering Cycle:** Specializing in Artificial Intelligence at ESPRIT (Academic Average: **16.12/20**, C++ Project: **19.25/20**).
-- 🔭 **Current Project:** Architecting **LifeLink**, a Django-based coordination platform for blood donation and unit traceability.
-- 🧠 **AI & LLM Integration:** Building dynamic systems using **Gemini API**, structured tool-use, and external API chaining (OpenMeteo, Global Fishing Watch).
-- 📊 **Data & Analytics:** Designing BI staging areas, data warehouses, and training predictive models on real-world datasets (Olist e-commerce).
-- 🏆 **Competitive Programming:** Active competitor — **TCPC 2026** (30th/96+ teams, **1st** among private engineering schools) & **INSAT Winter Cup 2025–2026** (Top 12).
-- 💬 **Ask Me About:** C++, Qt, Python, Django, database modeling, and applied LLM workflows.
-
----
-
-## 🌐 Connect With Me:
-<p align="left">
-  <a href="https://linkedin.com/in/emna-benothman" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/emna-benothman" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:emna.benothman@esprit.tn">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+<!-- Header Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,18,30&height=220&section=header&text=Emna%20Ben%20Othman&fontSize=42&fontAlignY=36&desc=Artificial%20Intelligence%20%E2%80%A2%20Applied%20Machine%20Learning%20%E2%80%A2%20Software%20Engineering&descAlignY=58&descAlign=50" width="100%" alt="Emna Ben Othman Banner" />
 </p>
 
+<!-- Identity & Overview -->
+<div align="center">
+  <h2>👋 Hello, World! I'm Emna.</h2>
+  <p>
+    Third-year engineering student specializing in <b>Artificial Intelligence</b> at <b>ESPRIT School of Engineering</b> (Tunisia).
+  </p>
+  <p>
+    My work bridges <b>object-oriented software engineering</b>, <b>data systems</b>, and <b>applied artificial intelligence</b>.<br />
+    From desktop tools and full-stack platforms to orchestrating dynamic LLM workflows with live real-world APIs, I build reliable, production-minded solutions to concrete problems.
+  </p>
+  <p>
+    📍 <i>Ariana, Tunisia</i> &nbsp;•&nbsp; 🎓 <i>AI Engineering Cycle ('27)</i> &nbsp;•&nbsp; 🏆 <i>Competitive Programmer (TCPC '26)</i>
+  </p>
+
+  <p>
+    <a href="https://linkedin.com/in/emna-benothman" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    &nbsp;
+    <a href="https://github.com/emna-benothman" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    &nbsp;
+    <a href="mailto:emna.benothman@esprit.tn">
+      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
+</div>
+
 ---
 
-# 💻 Tech Stack:
+## ⚡ Engineering Focus & Trajectory
 
-### 🔹 Programming Languages
+```yaml
+Current Degree : Engineering Cycle in Artificial Intelligence @ ESPRIT
+Academic Track : Object-Oriented Systems, Deep Learning, Data Warehousing, Computer Networks
+Current Build  : LifeLink — Blood donation coordination & cold-chain traceability platform
+AI Focus       : LLM orchestration, structured tool-use (Gemini API), dynamic data synthesis
+Data Track     : Multi-dimensional warehousing, staging workflows, predictive ML (Olist dataset)
+Algorithms     : Competitive Programming (TCPC 2026, INSAT Winter Cup 2025–2026)
+Tech Interests : Applied AI, Software Architecture, Enterprise Systems, Tech Consulting
+```
+
+---
+
+## 🛠️ Technical Arsenal
+
+### 💻 Programming Languages
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
@@ -45,7 +61,7 @@ Third-year engineering student specializing in **Artificial Intelligence** at **
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
 </p>
 
-### 🔹 AI, Machine Learning & APIs
+### 🧠 AI, Machine Learning & External APIs
 <p align="left">
   <img src="https://img.shields.io/badge/Google_Gemini-8E75C2?style=for-the-badge&logo=google&logoColor=white" alt="Google Gemini" />
   <img src="https://img.shields.io/badge/LLM_Orchestration-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="LLM Orchestration" />
@@ -54,13 +70,13 @@ Third-year engineering student specializing in **Artificial Intelligence** at **
   <img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs" />
 </p>
 
-### 🔹 Databases & Data Modeling
+### 🗄️ Databases & Data Modeling
 <p align="left">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/Oracle_11g-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle 11g" />
 </p>
 
-### 🔹 Frameworks & Development Tools
+### ⚙️ Frameworks & Engineering Tools
 <p align="left">
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
   <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="Qt" />
@@ -73,91 +89,127 @@ Third-year engineering student specializing in **Artificial Intelligence** at **
 
 ---
 
-# 🚀 Featured Projects:
+## 📂 Engineering Portfolio & Key Projects
 
-### 🐟 DataDock — Smart Fishing Port Management Platform
-> Collaborative desktop management platform designed to automate port operations, vessel monitoring, and market pricing intelligence.
-- **Role & Architecture:** Architected the Fishing Management module with role-based access for 3 distinct user profiles and full fleet traceability covering 15+ vessels.
-- **AI & API Chaining:** Engineered a dynamic market pricing engine by chaining Google Gemini LLM with live OpenMeteo weather data and Global Fishing Watch marine traffic streams.
-- **Features:** Built interactive contextual AI chat assistance, real-time analytics, and comprehensive CRUD dashboards in an Agile 4-person team.
-- **Stack & Status:**
-  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-  ![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white)
-  ![Oracle](https://img.shields.io/badge/Oracle_11g-F80000?style=flat-square&logo=oracle&logoColor=white)
-  ![Gemini](https://img.shields.io/badge/Gemini_API-8E75C2?style=flat-square&logo=google&logoColor=white)
-  ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-  ![Status](https://img.shields.io/badge/Repository-Academic_Team_(Private)-lightgrey?style=flat-square&logo=git)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🐟 DataDock — Smart Fishing Port Management</h3>
+      <p><b>Collaborative C++ / Qt / Oracle Desktop Platform</b></p>
+      <ul>
+        <li>Architected the Fishing Management module with role-based access control (3 user tiers) and fleet traceability across 15+ vessels.</li>
+        <li>Engineered a dynamic pricing engine by chaining <b>Google Gemini API</b> with live <b>OpenMeteo</b> weather data and <b>Global Fishing Watch</b> streams.</li>
+        <li>Built an intelligent contextual chatbot and real-time operational CRUD dashboards.</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+        <img src="https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white" />
+        <img src="https://img.shields.io/badge/Oracle_11g-F80000?style=flat-square&logo=oracle&logoColor=white" />
+        <img src="https://img.shields.io/badge/Gemini_API-8E75C2?style=flat-square&logo=google&logoColor=white" />
+      </p>
+      <p><i>🔒 Academic Team Project (Private Faculty Repo)</i></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🩸 LifeLink — Blood Donation Coordination</h3>
+      <p><b>Django / Python Healthcare Logistics Platform</b></p>
+      <ul>
+        <li>Designing an end-to-end web coordination ecosystem connecting regional blood banks, donors, collection centres, and emergency clinics.</li>
+        <li>Focused on blood-unit traceability, automated urgency matching, and donor appointment workflows.</li>
+        <li>Built with Django's modular architecture following Agile Scrum principles.</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+        <img src="https://img.shields.io/badge/AI_Matching-10A37F?style=flat-square&logo=openai&logoColor=white" />
+        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+      </p>
+      <p><i>🚀 In Active Engineering & Development</i></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛒 Olist — Brazilian E-Commerce Analytics</h3>
+      <p><b>BI, Data Warehousing & Applied Machine Learning</b></p>
+      <ul>
+        <li>Modeled and built a multidimensional data warehouse staging architecture for 100,000+ commercial order records.</li>
+        <li>Implemented ETL cleaning routines and dimension-modeling schemas for consumer behavior analytics.</li>
+        <li>Executed supervised classification/regression and unsupervised clustering models inside Google Colab environments.</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+        <img src="https://img.shields.io/badge/Data_Warehouse-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white" />
+      </p>
+      <p><i>📊 Analytics & ML Exploration Workspace</i></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧸 Paxora Kids — EdTech Platform</h3>
+      <p><b>Full-Stack PHP, MySQL & Stripe Commercial Engine</b></p>
+      <ul>
+        <li>Owned and implemented the backend finance module, designing relational MySQL schemas and PHP CRUD APIs for a 20+ SKU storefront.</li>
+        <li>Integrated Stripe API payment simulation and location mapping using Leaflet.js.</li>
+        <li>Collaborated within a 4-person Agile team leveraging Git branch protection and feature workflows.</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Stripe_API-635BFF?style=flat-square&logo=stripe&logoColor=white" />
+      </p>
+      <p><i>🔒 Academic Team Project (Private Faculty Repo)</i></p>
+    </td>
+  </tr>
+</table>
 
-### 🩸 LifeLink — Blood Donation Coordination Platform
-> Web coordination platform connecting blood banks, volunteer donors, collection centres, hospitals, and logistical units.
-- **Objective:** Streamline the blood donation lifecycle with end-to-end blood-unit traceability, urgency matching, and donor scheduling.
-- **Architecture:** Developing modular backend services and secure user role flows using Django, SQLite/MySQL, and Scrum Agile methodology.
-- **Stack & Status:**
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-  ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-  ![AI](https://img.shields.io/badge/AI_Matching-10A37F?style=flat-square&logo=openai&logoColor=white)
-  ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-  ![Status](https://img.shields.io/badge/Status-In_Active_Development-blue?style=flat-square)
+---
 
-### 🛒 Olist — Brazilian E-Commerce Analytics & Machine Learning
-> Comprehensive Business Intelligence, data warehousing, and machine learning pipeline applied to 100k+ Brazilian e-commerce orders.
-- **Data Engineering:** Designed staging area workflows, multi-dimensional schemas, and ETL routines to consolidate customer, order, and seller dimensions.
-- **Applied ML:** Implemented supervised regression/classification and unsupervised customer segmentation models using Google Colab.
-- **Stack & Status:**
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-  ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-  ![Data Warehouse](https://img.shields.io/badge/Data_Warehouse-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-  ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
-  ![Status](https://img.shields.io/badge/Workspace-BI_&_Colab_Notebooks-orange?style=flat-square)
+## 🏆 Competitive Programming & Academic Honors
 
-### 🧸 Paxora Kids — EdTech Platform
-> Educational e-commerce and learning storefront tailored for children and educational institutions.
-- **Finance & Inventory:** Engineered backend finance and inventory management module handling a 20+ SKU storefront with custom MySQL schemas and PHP CRUD APIs.
-- **Integrations:** Integrated Stripe API payment gateway simulation and interactive location mapping with Leaflet.js within an Agile team.
-- **Stack & Status:**
-  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-  ![Stripe](https://img.shields.io/badge/Stripe_API-635BFF?style=flat-square&logo=stripe&logoColor=white)
-  ![Leaflet](https://img.shields.io/badge/Leaflet.js-199900?style=flat-square&logo=leaflet&logoColor=white)
-  ![Status](https://img.shields.io/badge/Repository-Academic_Team_(Private)-lightgrey?style=flat-square&logo=git)
+<table width="100%" border="0" cellpadding="6">
+  <tr>
+    <td width="33%" align="center">
+      <h3>🥇 TCPC 2026</h3>
+      <p><b>30th Place / 96+ Teams</b><br /><b>1st Place</b> among all participating private engineering schools in Tunisia</p>
+    </td>
+    <td width="33%" align="center">
+      <h3>🥈 INSAT Winter Cup</h3>
+      <p><b>Top 12 Finalist</b><br />Ranked among top 12 teams out of 60+ competitive programming squads (2025–2026)</p>
+    </td>
+    <td width="33%" align="center">
+      <h3>🎯 Academic Track</h3>
+      <p><b>16.12 / 20</b> Academic Average<br /><b>19.25 / 20</b> in Advanced C++ Object-Oriented Project</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-# 🏆 Honors & Achievements:
-- 🥇 **TCPC 2026 (Tunisian Collegiate Programming Contest):** **30th place** overall out of 96+ elite university teams & **1st place** among all participating private engineering schools.
-- 🥈 **INSAT Winter Cup 2025–2026:** Top 12 finalist among 60+ competitive programming teams.
-- 🎯 **Academic Excellence (ESPRIT):** Overall academic average **16.12/20** | C++ Advanced OOP Project Grade **19.25/20**.
+## 📊 GitHub Analytics Hub
 
----
+<!-- Unified Side-by-Side Stats Dashboard -->
+<table align="center" border="0" cellpadding="0" cellspacing="4">
+  <tr>
+    <td valign="top" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=emna-benothman&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Emna's GitHub Stats" height="175" />
+    </td>
+    <td valign="top" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emna-benothman&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" height="175" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://streak-stats.demolab.com/?user=emna-benothman&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
 
-# 📊 GitHub Stats:
+<!-- GitHub Trophies -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=emna-benothman&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Emna's GitHub Stats" /><br/>
-  <img src="https://streak-stats.demolab.com/?user=emna-benothman&theme=dark&hide_border=false" alt="Emna's GitHub Streak" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emna-benothman&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Emna's Top Languages" />
+  <img src="https://profile-trophy.vercel.app/?username=emna-benothman&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </p>
 
-## 🏆 GitHub Trophies
+<!-- Footer Wave Banner -->
 <p align="center">
-  <img src="https://profile-trophy.vercel.app/?username=emna-benothman&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="Emna's GitHub Trophies" />
-</p>
-
-### ✍️ Random Dev Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</p>
-
-### 🐍 GitHub Contribution Snake
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/emna-benothman/emna-benothman/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/emna-benothman/emna-benothman/output/github-snake.svg" />
-    <img alt="Emna's GitHub Contribution Snake" src="https://raw.githubusercontent.com/emna-benothman/emna-benothman/output/github-snake.svg" />
-  </picture>
-</p>
-
----
-<p align="center">
-  <i>Designed with focus, curiosity, and code by <b>Emna Ben Othman</b></i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,18,30&height=100&section=footer" width="100%" alt="Footer Wave" />
 </p>
