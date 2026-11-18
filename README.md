@@ -3,15 +3,18 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,18,30&height=220&section=header&text=Emna%20Ben%20Othman&fontSize=42&fontAlignY=36&desc=Artificial%20Intelligence%20%E2%80%A2%20Applied%20Machine%20Learning%20%E2%80%A2%20Software%20Engineering&descAlignY=58&descAlign=50" width="100%" alt="Emna Ben Othman Banner" />
 </p>
 
+<!-- Live Animated Typing Headline -->
+<p align="center">
+  <a href="https://github.com/emna-benothman">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=9D7CD8&center=true&vCenter=true&width=650&lines=AI+Engineering+Student+%40+ESPRIT+%F0%9F%8E%93;Orchestrating+Intelligent+LLM+Workflows+%F0%9F%A7%A0;Building+High-Performance+Systems+with+C%2B%2B+%26+Django+%F0%9F%92%BB;TCPC+2026+Competitive+Programmer+%F0%9F%8F%86;Designing+Data+Pipelines+%26+ML+Architectures+%F0%9F%93%8A" alt="Typing SVG Headline" />
+  </a>
+</p>
+
 <!-- Identity & Overview -->
 <div align="center">
-  <h2>👋 Hello, World! I'm Emna.</h2>
   <p>
-    Third-year engineering student specializing in <b>Artificial Intelligence</b> at <b>ESPRIT School of Engineering</b> (Tunisia).
-  </p>
-  <p>
-    My work bridges <b>object-oriented software engineering</b>, <b>data systems</b>, and <b>applied artificial intelligence</b>.<br />
-    From desktop tools and full-stack platforms to orchestrating dynamic LLM workflows with live real-world APIs, I build reliable, production-minded solutions to concrete problems.
+    Third-year engineering student specializing in <b>Artificial Intelligence</b> at <b>ESPRIT School of Engineering</b> (Tunisia).<br />
+    Bridging <b>object-oriented software engineering</b>, <b>data systems</b>, and <b>applied artificial intelligence</b> to build reliable, production-minded solutions.
   </p>
   <p>
     📍 <i>Ariana, Tunisia</i> &nbsp;•&nbsp; 🎓 <i>AI Engineering Cycle ('27)</i> &nbsp;•&nbsp; 🏆 <i>Competitive Programmer (TCPC '26)</i>
@@ -29,22 +32,47 @@
     <a href="mailto:emna.benothman@esprit.tn">
       <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
+    &nbsp;
+    <img src="https://komarev.com/ghpvc/?username=emna-benothman&color=7aa2f7&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
   </p>
 </div>
 
 ---
 
-## ⚡ Engineering Focus & Trajectory
+## 🖥️ System Environment & Station Status
 
-```yaml
-Current Degree : Engineering Cycle in Artificial Intelligence @ ESPRIT
-Academic Track : Object-Oriented Systems, Deep Learning, Data Warehousing, Computer Networks
-Current Build  : LifeLink — Blood donation coordination & cold-chain traceability platform
-AI Focus       : LLM orchestration, structured tool-use (Gemini API), dynamic data synthesis
-Data Track     : Multi-dimensional warehousing, staging workflows, predictive ML (Olist dataset)
-Algorithms     : Competitive Programming (TCPC 2026, INSAT Winter Cup 2025–2026)
-Tech Interests : Applied AI, Software Architecture, Enterprise Systems, Tech Consulting
+```bash
+emna@station:~$ neofetch --profile
+  █████████   User: Emna Ben Othman
+  ███   ███   Host: ESPRIT AI Engineering Station
+  ███   ███   Track: Artificial Intelligence & Autonomous Systems (Year 3)
+  █████████   Kernel: C++20 • Python 3.12 • Qt 6 • Django • Oracle 11g
+  ███         AI Engines: Gemini API • LLM Chaining • Scikit-Learn
+  ███         Algorithms: TCPC 2026 (30th/96+ & 1st Private) • INSAT Cup (Top 12)
+  ███         Current Mission: Building LifeLink (Blood Logistics Platform)
+  ███         Status: Open to AI & Data Engineering Opportunities 🚀
 ```
+
+---
+
+## 🎯 Engineering Philosophy
+
+<table width="100%" border="0" cellpadding="10" cellspacing="0">
+  <tr>
+    <td width="33%" valign="top">
+      <h4>🏗️ Architectural Discipline</h4>
+      <p>Strict typing, defensive input handling, and clean Object-Oriented design patterns before adding unnecessary complexity.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h4>🧠 Grounded Intelligence</h4>
+      <p>Moving beyond simple wrappers—grounding LLMs in structured schemas, verified external data streams, and robust fallback logic.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h4>🤝 Collaborative Hygiene</h4>
+      <p>Feature-branch Git workflows, atomic commits, clear relational schema modeling, and Agile Scrum delivery.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -121,9 +149,27 @@ Tech Interests : Applied AI, Software Architecture, Enterprise Systems, Tech Con
 
 ---
 
-## 📂 Engineering Portfolio & Key Projects
+## 📂 Engineering Portfolio & Flagship Systems
 
-<table>
+### 🐟 System Spotlight: DataDock System Architecture
+
+```mermaid
+flowchart LR
+    subgraph External Telemetry & APIs
+        A[🛰️ Global Fishing Watch API]
+        B[🌦️ OpenMeteo Marine Weather]
+    end
+    subgraph Intelligent Platform Core
+        C[🚢 Vessel Fleet Sensor Stream] --> D[🧠 Gemini Reasoning Engine]
+        A --> D
+        B --> D
+        D --> E[📈 Dynamic Pricing Engine]
+        E --> F[🖥️ Qt 6 / C++ Operator GUI]
+        G[(🗄️ Oracle 11g Database)] <--> F
+    end
+```
+
+<table width="100%">
   <tr>
     <td width="50%" valign="top">
       <h3>🐟 DataDock — Smart Fishing Port Management</h3>
@@ -139,6 +185,14 @@ Tech Interests : Applied AI, Software Architecture, Enterprise Systems, Tech Con
         <img src="https://img.shields.io/badge/Oracle_11g-F80000?style=flat-square&logo=oracle&logoColor=white" />
         <img src="https://img.shields.io/badge/Gemini_API-8E75C2?style=flat-square&logo=google&logoColor=white" />
       </p>
+      <details>
+        <summary><b>🔍 Inspect Technical Details</b></summary>
+        <p>
+          • <b>Architecture:</b> MVC pattern in C++ with Qt framework, custom signals and slots for asynchronous API polling.<br />
+          • <b>Database:</b> Relational Oracle 11g schemas with triggers, sequence-generated keys, and ACID transaction safety.<br />
+          • <b>Security:</b> User authentication and privilege checking distinguishing Port Master, Fleet Operator, and Market Analyst roles.
+        </p>
+      </details>
       <p><i>🔒 Academic Team Project (Private Faculty Repo)</i></p>
     </td>
     <td width="50%" valign="top">
@@ -155,6 +209,14 @@ Tech Interests : Applied AI, Software Architecture, Enterprise Systems, Tech Con
         <img src="https://img.shields.io/badge/AI_Matching-10A37F?style=flat-square&logo=openai&logoColor=white" />
         <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
       </p>
+      <details>
+        <summary><b>🔍 Inspect Technical Details</b></summary>
+        <p>
+          • <b>Logistics:</b> Cold-chain tracking for perishable blood units with status indicators and expiration countdowns.<br />
+          • <b>Matching Engine:</b> Algorithmic matching pairing rare blood requests with proximity-based active donor availability.<br />
+          • <b>Methodology:</b> Bi-weekly Agile Scrum sprints with Git branch protection and continuous code reviews.
+        </p>
+      </details>
       <p><i>🚀 In Active Engineering & Development</i></p>
     </td>
   </tr>
@@ -173,6 +235,13 @@ Tech Interests : Applied AI, Software Architecture, Enterprise Systems, Tech Con
         <img src="https://img.shields.io/badge/Data_Warehouse-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
         <img src="https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white" />
       </p>
+      <details>
+        <summary><b>🔍 Inspect Technical Details</b></summary>
+        <p>
+          • <b>ETL Pipeline:</b> Cleaned raw heterogeneous CSVs into structured staging tables, managing foreign key consistency and null values.<br />
+          • <b>Modeling:</b> Built customer lifetime value regression models and RFM (Recency, Frequency, Monetary) customer segmentation using scikit-learn.
+        </p>
+      </details>
       <p><i>📊 Analytics & ML Exploration Workspace</i></p>
     </td>
     <td width="50%" valign="top">
@@ -189,6 +258,13 @@ Tech Interests : Applied AI, Software Architecture, Enterprise Systems, Tech Con
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
         <img src="https://img.shields.io/badge/Stripe_API-635BFF?style=flat-square&logo=stripe&logoColor=white" />
       </p>
+      <details>
+        <summary><b>🔍 Inspect Technical Details</b></summary>
+        <p>
+          • <b>Finance Engine:</b> Handled transactional consistency for order totals, tax calculations, and Stripe webhooks simulation.<br />
+          • <b>Cartography:</b> Embedded interactive partner pickup locations via Leaflet.js with custom coordinate markers.
+        </p>
+      </details>
       <p><i>🔒 Academic Team Project (Private Faculty Repo)</i></p>
     </td>
   </tr>
@@ -198,7 +274,7 @@ Tech Interests : Applied AI, Software Architecture, Enterprise Systems, Tech Con
 
 ## 🏆 Competitive Programming & Academic Honors
 
-<table width="100%" border="0" cellpadding="6">
+<table width="100%" border="0" cellpadding="8">
   <tr>
     <td width="33%" align="center">
       <h3>🥇 TCPC 2026</h3>
